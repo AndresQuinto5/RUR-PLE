@@ -1,4 +1,6 @@
+//Declaramos la clase Robot y sus atributos!
 public class Robot {
+    //Aqui colocamos sus atributos con lo cual trabajaremos despues
     private int Row;
     private int column;
     private int [] where = new int[2];
